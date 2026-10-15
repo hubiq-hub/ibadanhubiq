@@ -1,0 +1,6 @@
+{
+  "name": "Hubiq Life - Ibadan 3D Open-World Life Simulation",
+  "description": "An immersive third-person 3D open-world life simulation set in Ibadan, Nigeria. Explore streets, ride Okadas, drive cabs, complete missions, and build your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
